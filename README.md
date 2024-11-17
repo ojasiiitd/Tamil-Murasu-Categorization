@@ -1,2 +1,2 @@
 # Tamil-Murasu-Categorization
-categorizing Tamil articles using data from the Tamil Murasu newspaper
+categorizing Tamil articles using data from the Tamil Murasu newspaper. The Kaggle Dataset can be found [here](https://www.kaggle.com/datasets/vijayabhaskar96/tamil-news-classification-dataset-tamilmurasu).
